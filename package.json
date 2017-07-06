@@ -1,0 +1,27 @@
+{
+  "name": "node-hwloc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bundz/node-hwloc.git"
+  },
+  "keywords": [
+    "hwloc"
+  ],
+  "author": "Vitor Alano de Ataides",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bundz/node-hwloc/issues"
+  },
+  "homepage": "https://github.com/bundz/node-hwloc#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "shelljs": "^0.7.8",
+    "xml2js": "^0.4.17"
+  }
+}
